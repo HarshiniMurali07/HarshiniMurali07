@@ -30,7 +30,7 @@ I believe every dataset tells a story, and I’m here to narrate it beautifully!
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio Website](#) *(coming soon!)*
+- 🌐 https://harshinimurali07.github.io/Myportfolio
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshini-murali-744a68272/)
 - 📩 **Reach Out:** harshinihachu6@gmail.com.
 
